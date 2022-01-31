@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="XamarinSimpleInterest.MainPage">
+
+    <StackLayout>
+        <Frame BackgroundColor="#2196F3" Padding="24" CornerRadius="0">
+            <Label Text="SIMPLE INTEREST" HorizontalTextAlignment="Center" TextColor="White" FontSize="36"/>
+        </Frame>
+        <Label Text="ENTER PRINCIPAL"  TextColor="Crimson" HorizontalTextAlignment="Center" />
+        <Entry x:Name="pname"  Placeholder="ENTER PRINCIPAL" FontSize="Small" HorizontalTextAlignment="Center" />
+        <Label Text="ENTER RATE OF INTEREST"  TextColor="Crimson" HorizontalTextAlignment="Center" />
+        <Entry x:Name="rname"     Placeholder="ENTER RATE OF INTEREST" FontSize="Small" HorizontalTextAlignment="Center"/>
+        <Label Text="ENTER TIME PERIOD"  TextColor="Crimson" HorizontalTextAlignment="Center"/>
+       
+        <Entry x:Name="tname"    Placeholder="ENTER TIME PERIOD" FontSize="Small" HorizontalTextAlignment="Center"/>
+        <Label Text="INTEREST"  TextColor="Crimson" HorizontalTextAlignment="Center"/>
+        <Entry x:Name="iname"  FontSize="Small" HorizontalTextAlignment="Center"/>
+        <Button Text="CALCULATE"  Clicked="Simpleinterest" TextColor="Chocolate" BackgroundColor= "Aqua" BorderColor="Blue" BorderWidth="3" CornerRadius="20" />
+        <Label FontSize="16" Padding="30,24,30,0">
+            <Label.FormattedText>
+                <FormattedString>
+                    <FormattedString.Spans>
+                        
+                    </FormattedString.Spans>
+                </FormattedString>
+            </Label.FormattedText>
+        </Label>
+    </StackLayout>
+
+</ContentPage>

@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "ps6v094EvbBbKgjSOuj35fRolYzOywQjMs3ScqlKjOcS8UUCO1RCqjoCgeaO/uJv1GDEmADSmQ0kfoo2VJA+Iw==",
+  "success": true,
+  "projectFilePath": "D:\\project\\XamarinsimpleInterest\\XamarinSimpleInterest\\XamarinSimpleInterest.iOS\\XamarinSimpleInterest.iOS.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\DELL\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
+    "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\xamarin.essentials\\1.6.1\\xamarin.essentials.1.6.1.nupkg.sha512",
+    "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\xamarin.forms\\5.0.0.2012\\xamarin.forms.5.0.0.2012.nupkg.sha512"
+  ],
+  "logs": []
+}

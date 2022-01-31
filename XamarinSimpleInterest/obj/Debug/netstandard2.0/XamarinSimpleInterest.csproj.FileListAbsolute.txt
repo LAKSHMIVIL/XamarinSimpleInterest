@@ -1,0 +1,15 @@
+D:\project\XamarinsimpleInterest\XamarinSimpleInterest\XamarinSimpleInterest\bin\Debug\netstandard2.0\XamarinSimpleInterest.deps.json
+D:\project\XamarinsimpleInterest\XamarinSimpleInterest\XamarinSimpleInterest\bin\Debug\netstandard2.0\XamarinSimpleInterest.dll
+D:\project\XamarinsimpleInterest\XamarinSimpleInterest\XamarinSimpleInterest\bin\Debug\netstandard2.0\ref\XamarinSimpleInterest.dll
+D:\project\XamarinsimpleInterest\XamarinSimpleInterest\XamarinSimpleInterest\bin\Debug\netstandard2.0\XamarinSimpleInterest.pdb
+D:\project\XamarinsimpleInterest\XamarinSimpleInterest\XamarinSimpleInterest\obj\Debug\netstandard2.0\XamarinSimpleInterest.csproj.AssemblyReference.cache
+D:\project\XamarinsimpleInterest\XamarinSimpleInterest\XamarinSimpleInterest\obj\Debug\netstandard2.0\XamarinSimpleInterest.GeneratedMSBuildEditorConfig.editorconfig
+D:\project\XamarinsimpleInterest\XamarinSimpleInterest\XamarinSimpleInterest\obj\Debug\netstandard2.0\App.xaml.g.cs
+D:\project\XamarinsimpleInterest\XamarinSimpleInterest\XamarinSimpleInterest\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+D:\project\XamarinsimpleInterest\XamarinSimpleInterest\XamarinSimpleInterest\obj\Debug\netstandard2.0\XamarinSimpleInterest.AssemblyInfoInputs.cache
+D:\project\XamarinsimpleInterest\XamarinSimpleInterest\XamarinSimpleInterest\obj\Debug\netstandard2.0\XamarinSimpleInterest.AssemblyInfo.cs
+D:\project\XamarinsimpleInterest\XamarinSimpleInterest\XamarinSimpleInterest\obj\Debug\netstandard2.0\XamarinSimpleInterest.csproj.CoreCompileInputs.cache
+D:\project\XamarinsimpleInterest\XamarinSimpleInterest\XamarinSimpleInterest\obj\Debug\netstandard2.0\XamlC.stamp
+D:\project\XamarinsimpleInterest\XamarinSimpleInterest\XamarinSimpleInterest\obj\Debug\netstandard2.0\XamarinSimpleInterest.dll
+D:\project\XamarinsimpleInterest\XamarinSimpleInterest\XamarinSimpleInterest\obj\Debug\netstandard2.0\ref\XamarinSimpleInterest.dll
+D:\project\XamarinsimpleInterest\XamarinSimpleInterest\XamarinSimpleInterest\obj\Debug\netstandard2.0\XamarinSimpleInterest.pdb
